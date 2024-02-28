@@ -1,0 +1,14 @@
+{
+    "apim-request-id": "667f88be-a5e2-4515-b95e-9f7fc76cfb35",
+    "content-length": "203",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a group of people standing in a grassy area with a bridge in the background",
+      "confidence": 0.7898672223091125
+    },
+    "metadata": {
+      "width": 1236,
+      "height": 927
+    }
+  }
