@@ -25,15 +25,21 @@ Neste documento explico o passo a passo para realizar o presente projeto do mód
 - Existem as amostras de imagens disponíveis na plataforma, mas utilizei a opção "Browse for a file";
 - Selecionei a foto *Parc_Jacques_Cartier.jpg* para ser analisada e foi este o resultado mostrado:
 
+![Faces Output](Outputs/Face_detection.jpg)
+
 ### Optical Character Recognition ➡ Extract text from images
 - Após retornar à página inicial, clicar na aba "Optical character recognition" e selecionar a opção "Extract text from images";
 - Novamente utilizar a opção "Browse for a file";
 - Selecionei a foto *Auckland_AlbionBar.jpg* para ser analisada e este foi o resultado gerado:
 
+![Text Output](Outputs/OCR.jpg)
+
 ### Image Analysis ➡ Add captions to images
 - Após retornar à página inicial, clicar na aba "Image analysis" e selecionar a opção "Add captions to images";
 - Novamente utilizar a opção "Browse for a file";
 - Selecionei a foto *Brooklin_park.jpg* para ser analisada e este foi o resultado apresentado:
+
+![Caption Output](Outputs/Image_analysis.jpg)
 
 ## Análise dos Resultados
 Eu tentei escolher fotos com mais elementos para testar a IA da plataforma, sendo que tive resultados diversos em relação às minhas expectativas com essas ferrramentas. Quanto à foto de reconhecimento de rostos, escolhi uma em que tivesse óculos de sol e óculos + boné para ver como a ferramenta se comportaria, e o resultado foi como o esperado. Quanto à foto para extração de texto, selecionei uma que havia letras impressas e letras escritas à mão. O resultado gerado foi acima do que eu esperava pois, por se tratar de uma foto tirada em uma rua, havia outras letras que eu não havia me dado conta no momento da seleção, mas a IA reconheceu. Já em relação à foto de legendas de imagens, escolhi uma cheia de elementos para ver quais elementos a IA reconheceria. O resultado frustrou um pouco minhas expectativas, pois não considerou nem o fato do gramado ser à beira de um rio, nem os edifícos ao fundo. Isso nos mostra que a IA da plataforma já possui várias funcionalidades e capacidades, mas ainda pode ser aprimorada, para ser capaz de reconhecer mais elementos.
